@@ -1,15 +1,15 @@
-AI-Powered Bluesky Post Scraper
+# AI-Powered Bluesky Post Scraper
 
 
 
-Project Overview
+# Project Overview
 
 
 This project is an AI-powered web scraper that extracts public posts, images, captions, and descriptions from Bluesky, a decentralized social media platform. The scraper automates the process of retrieving a user's latest post, their profile details, and associated images for further analysis.
 
 
 
-Key Features
+# Key Features
 
 
 ✅ Automated Post Scraping – Fetches the latest post, including its text, metadata, and images.
@@ -25,7 +25,7 @@ Key Features
 ✅ Scalable & Extensible – Can be modified to support other social platforms with similar architectures.
 
 
-Technology Stack
+# Technology Stack
 
 
 Python – Main programming language
@@ -43,7 +43,7 @@ Requests – For handling HTTP requests
 WebDriver Manager – For managing browser drivers
 
 
-How It Works
+# How It Works
 
 
 Fetch Post Data – Sends a request to the target Bluesky post URL and scrapes title, description, and metadata.
